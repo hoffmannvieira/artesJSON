@@ -1,5 +1,4 @@
-{
-  "artes": [
+[ 
     {
       "titulo": "Perseguição Policial",
       "imagem": "https://scontent.fldb3-1.fna.fbcdn.net/v/t39.30808-6/412386775_6736047956524612_7287127387999905897_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeF9Gg-gO0VUra94okgpVlF5nWXWHishZ_OdZdYeKyFn8x75TUQLUoLxffuoRXoH2E3XQvgmvlUYxOqSE7ny27kJ&_nc_ohc=zSB73RKBH2IAX-Lzlzj&_nc_ht=scontent.fldb3-1.fna&oh=00_AfCyyUmCwr_Lv3gka2JYYXaVjXumNyR0viNUtvYJrukjMw&oe=6584E702"
@@ -29,6 +28,6 @@
       "titulo": "Minha Turminha",
       "imagem": "https://scontent.fldb3-1.fna.fbcdn.net/v/t39.30808-6/412368207_6736047066524701_8947227186526623239_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeHZylvz3k11_NLcojV5VKy8tx84YyNv0A23HzhjI2_QDezu6gaY-CZPWp4B4pMpd5XhPqnwQOVRaSAnbA2JAQeT&_nc_ohc=it9Oh8lf3HEAX9yX4e6&_nc_ht=scontent.fldb3-1.fna&oh=00_AfAL-CWzjsdOfpD4l4W3PAwFo2ghVryZR8al6Wigv0exqw&oe=65850842"
     }
-
-  ]
-}
+  
+  
+]
